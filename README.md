@@ -47,6 +47,9 @@
     <a href="https://www.linkedin.com/in/your-link" target="_blank">
         <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/linkedin_tile_logo_icon_169242.png" width="100px" height="100px" alt="LinkedIn">
     </a>
+    <a href="https://www.instagram.com/your-profile-link" target="_blank">
+        <img src="https://icon-icons.com/icons2/2248/PNG/512/instagram_icon_108066.png" width="100px" height="100px" alt="Instagram">
+    </a>
 </div>
 
 ---
