@@ -45,7 +45,7 @@
         <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/facebook_tile_logo_icon_170166.png" width="100px" height="100px" alt="Facebook">
     </a>
     <a href="https://www.linkedin.com/in/your-link" target="_blank">
-        <img src="https://oprojektowaniu.pl/wp-content/uploads/2017/02/official-linkedin-logo-tile.png" width="100px" height="100px" alt="LinkedIn">
+        <img src="https://oprojektowaniu.pl/wp-content/uploads/2017/02/official-linkedin-logo-tile.png](https://cdn.icon-icons.com/icons2/2699/PNG/512/linkedin_tile_logo_icon_169242.png" width="100px" height="100px" alt="LinkedIn">
     </a>
 </div>
 
