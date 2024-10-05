@@ -31,18 +31,16 @@
 
 ---
 
-## 🎨 Creative Journey
+## 📊 My GitHub Activity
 
-I'm a passionate **developer** who loves merging creativity with technology. Whether it's coding engaging **games** or designing cutting-edge **AI models**, I'm always striving to build something new and impactful.
+![Contributions in the last year](https://github-readme-streak-stats.herokuapp.com?user=JakubGralinski&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JakubGralinski&layout=compact&theme=highcontrast&hide_border=true)
 
 ---
 
 ## 📈 Let's Connect!
 
 <p align="center">
-    <a href="https://github.com/JakubGralinski" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-    </a>
     <a href="https://linkedin.com/in/your-link" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
