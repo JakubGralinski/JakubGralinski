@@ -1,4 +1,4 @@
-# <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/waving-hand_1f44b.png" width="35px" height="35px"> Hi, I'm Kuba!
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> Hi, I'm Kuba!
 
 - 🎯 I'm passionate about building projects with **C++**, **Java**, and **Python**.
 - 🌱 Currently working on exciting **AI projects** with Python, focusing on **object detection** and **skin image classification**.
