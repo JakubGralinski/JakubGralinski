@@ -1,4 +1,4 @@
-# ![wave](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif) Hi, I'm Kuba!
+# <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/waving-hand_1f44b.png" width="35px" height="35px"> Hi, I'm Kuba!
 
 - 🎯 I'm passionate about building projects with **C++**, **Java**, and **Python**.
 - 🌱 Currently working on exciting **AI projects** with Python, focusing on **object detection** and **skin image classification**.
@@ -48,14 +48,5 @@
         <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
     </a>
 </p>
-
-<div align="center">
-    <a href="https://linkedin.com/in/your-link" target="_blank">
-        <img src="https://your_image_link_here.com" width="200" height="200" alt="LinkedIn">
-    </a>
-    <a href="mailto:jakubm.gralinski@gmail.com" target="_blank">
-        <img src="https://your_image_link_here.com" width="200" height="200" alt="Email">
-    </a>
-</div>
 
 ---
