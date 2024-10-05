@@ -40,13 +40,13 @@
 
 ## 📞 Let's Connect!
 
-<p align="center">
-    <a href="https://linkedin.com/in/your-link" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<div align="center">
+    <a href="https://www.facebook.com/your-profile-link" target="_blank">
+        <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/facebook_tile_logo_icon_170166.png" width="100px" height="100px" alt="Facebook">
     </a>
-    <a href="mailto:jakubm.gralinski@gmail.com">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <a href="https://www.linkedin.com/in/your-link" target="_blank">
+        <img src="https://oprojektowaniu.pl/wp-content/uploads/2017/02/official-linkedin-logo-tile.png" width="100px" height="100px" alt="LinkedIn">
     </a>
-</p>
+</div>
 
 ---
