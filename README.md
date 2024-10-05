@@ -44,13 +44,13 @@
 ## 📞 Let's Connect!
 
 <div align="center">
-    <a href="https://www.facebook.com/your-profile-link" target="_blank">
+    <a href="https://www.facebook.com/jakub.gralinski.5" target="_blank">
         <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/facebook_tile_logo_icon_170166.png" width="100px" height="100px" alt="Facebook">
     </a>
     <a href="https://www.linkedin.com/in/your-link" target="_blank">
         <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/linkedin_tile_logo_icon_169242.png" width="100px" height="100px" alt="LinkedIn">
     </a>
-    <a href="https://www.instagram.com/your-profile-link" target="_blank">
+    <a href="https://www.instagram.com/gralinski.kuba" target="_blank">
         <img src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-3instagram-4102579_113804.png" width="100px" height="100px" alt="Instagram">
     </a>
 </div>
