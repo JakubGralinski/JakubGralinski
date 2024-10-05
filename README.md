@@ -1,4 +1,4 @@
-# 👋<span style="animation: wave 2s infinite;"> Hi, I'm Kuba!</span>
+# ![wave](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif) Hi, I'm Kuba!
 
 - 🎯 I'm passionate about building projects with **C++**, **Java**, and **Python**.
 - 🌱 Currently working on exciting **AI projects** with Python, focusing on **object detection** and **skin image classification**.
@@ -40,26 +40,22 @@
 
 ## 📞 Let's Connect!
 
-<div align="center">
+<p align="center">
     <a href="https://linkedin.com/in/your-link" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     <a href="mailto:jakubm.gralinski@gmail.com">
         <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
     </a>
+</p>
+
+<div align="center">
+    <a href="https://linkedin.com/in/your-link" target="_blank">
+        <img src="https://your_image_link_here.com" width="200" height="200" alt="LinkedIn">
+    </a>
+    <a href="mailto:jakubm.gralinski@gmail.com" target="_blank">
+        <img src="https://your_image_link_here.com" width="200" height="200" alt="Email">
+    </a>
 </div>
 
 ---
-
-<style>
-@keyframes wave {
-    0% { transform: rotate(0.0deg); }
-    10% { transform: rotate(14.0deg); }
-    20% { transform: rotate(-8.0deg); }
-    30% { transform: rotate(14.0deg); }
-    40% { transform: rotate(-4.0deg); }
-    50% { transform: rotate(10.0deg); }
-    60% { transform: rotate(0.0deg); }
-    100% { transform: rotate(0.0deg); }
-}
-</style>
