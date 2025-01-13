@@ -2,7 +2,7 @@
 
 - 🎯 I'm passionate about building projects with **Python**, **C++** and **Java**.
 - 🌱 Currently working on exciting **AI projects** with Python, focusing on **object detection** and **skin image classification**.
-- 💼 Take a look at my standout projects like **[TowerDefense3D](https://github.com/JakubGralinski/TowerDefense3D)**, [DynamicModelFramework](https://github.com/JakubGralinski/DynamicModelFramework)** **[Pacman-Java](https://github.com/JakubGralinski/Pacman-Java)**.
+- 💼 Take a look at my standout projects like **[TowerDefense3D](https://github.com/JakubGralinski/TowerDefense3D)**, **[DynamicModelFramework](https://github.com/JakubGralinski/DynamicModelFramework)** and **[Pacman-Java](https://github.com/JakubGralinski/Pacman-Java)**.
 - 📫 Feel free to reach out: [jakubm.gralinski@gmail.com](mailto:jakubm.gralinski@gmail.com)
 
 ---
