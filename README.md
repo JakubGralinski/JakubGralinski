@@ -1,34 +1,5 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> Hi, I'm Kuba!
 
-- 🎯 I'm passionate about building projects with **Python**, **C++** and **Java**.
-- 🌱 Currently working on exciting **AI projects** with Python, focusing on **object detection** and **skin image classification**.
-- 💼 Take a look at my standout projects like **[TrafficSignClassifier](https://github.com/JakubGralinski/TrafficSignClassifier)**, **[DynamicModelFramework](https://github.com/JakubGralinski/DynamicModelFramework)** and **[Pacman-Java](https://github.com/JakubGralinski/Pacman-Java)**.
-- 📫 Feel free to reach out: [jakubm.gralinski@gmail.com](mailto:jakubm.gralinski@gmail.com)
-
----
-
-## ⚡ Technologies & Tools
-
-<p align="center">
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python">
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
-    <img src="https://img.shields.io/badge/Swing-007396?style=for-the-badge&logo=java&logoColor=white" alt="Swing">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-</p>
-
----
-
-## 🚀 Featured Projects
-
-| Project        | Description                                                            | Technologies   |
-| -------------- | ---------------------------------------------------------------------- | -------------- |
-| [**SkinScanAI**](https://github.com/JakubGralinski/SkinScanAI)  | AI model for **skin lesion classification** using **MobileNetV2** and **TensorFlow**.  | Python, TensorFlow |
-| [**TowerDefense3D**](https://github.com/JakubGralinski/TowerDefense3D)  | A 3D tower defense game built with **C#** and **Unity**.   | C#, Unity  |
-| [**Pacman-Java**](https://github.com/JakubGralinski/Pacman-Java)  | Classic **Pacman** game recreated in **Java** using **Swing** for the UI.  | Java, Swing  |
-
 ---
 
 ## 📈 My GitHub Activity
